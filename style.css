@@ -1,0 +1,36 @@
+.header{
+    height: 5rem;
+    display: flex;
+    justify-content: center
+}
+.body{
+    
+    background: #d1d5da;
+    
+}
+.photo{
+    height: 35rem;
+    width: 30rem;
+    margin-left: 45rem;
+    margin-top: 3rem
+   
+}
+h2{
+    background: white;
+    margin-bottom: 0rem;
+    margin-top: 4rem;
+    height: 4rem;
+}
+p{
+    background: white;
+    height: 5rem;
+    margin-top: 0rem;
+}
+img{
+    height: 25rem;
+    width: 30rem;
+}
+.photo-body{
+    height: 25rem;
+    background-image: url("https://i.pinimg.com/564x/04/0e/ce/040ece9078b22e7315de96aa620057c5.jpg")
+}
